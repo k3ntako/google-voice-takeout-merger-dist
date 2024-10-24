@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
-  "notes": "Version 0.2.0",
-  "pub_date": "2024-10-05T23:10:29Z",
+  "version": "0.3.0",
+  "notes": "Version 0.3.0",
+  "pub_date": "2024-10-24T02:57:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVmsxaVovSFhoSFFwelpoYjBSVUNTeFFQM3FGL09BWEs0bjNNalRnbmlUSXRLZHF1bEhUYkhBQnJuRHN6S0pXYTdOdlUwaC9DWkU0R2Y5bWNDNkszWWYvaFRWRHptd2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MTY5NzM5CWZpbGU6R29vZ2xlIFZvaWNlIFRha2VvdXQgTWVyZ2VyLmFwcC50YXIuZ3oKRVM5a0k3Y1pkSnAzdllybVhyYy9Jd0czVUtFU1VzSDgvUUtMOHlQaTVGcFBaM05VTmpJek5yalpaYnpodUdNNzB1Y2VZb295U3pNblVPY1pLMjlsQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/k3ntako/google-voice-takeout-merger-dist/refs/heads/main/versions/darwin-aarch64/0.2.0/Google%20Voice%20Takeout%20Merger.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVmsxaVovSFhoSFlkWWx2ci9tSGNCanBoQUUxOStqbDdUSmFzdE9XQ29JUmtPL0RFanJDaVR5cS8zVGxNdWtDUlIvS1hMcnN0WExHQVd4VktLUDlPbjFlU1Y2TlM0SWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NzM4NDAxCWZpbGU6R29vZ2xlIFZvaWNlIFRha2VvdXQgTWVyZ2VyLmFwcC50YXIuZ3oKSWUzV2laRjZzdm9SSHprRkQ2UHRSdFNSWGJBQjR5SlpJbkJvVW1LT01YSEw3OUE2OHJlTGZnOTB4ZHdDbVB4Q3h2UFlsR0g4aC92MEdubHBlN1FnQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/k3ntako/google-voice-takeout-merger-dist/refs/heads/main/versions/darwin-aarch64/0.3.0/Google%20Voice%20Takeout%20Merger.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVmsxaVovSFhoSFZYZ1UyckxVd2phRUtoSHhOU2hiUENUMFBBRDhvbnpxZEZWKzJ2T0xPTDZoYm1oOFNiYS9Hb04zd1NxdG1HR2lSdjIwQ3FoZ0hJanJkREROeFRQalFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MTY5ODI5CWZpbGU6R29vZ2xlIFZvaWNlIFRha2VvdXQgTWVyZ2VyLmFwcC50YXIuZ3oKTlZFaE1YRDBLZ1lvcXRqMERXeFRTYkdSWkQ3VWwvQjYvdyt5akR5MnhaVmRVcG9NWm53cE9vWUw2YjNZVy9KQm9hZHAvWU13RzVSZlFMT3g1YldIQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/k3ntako/google-voice-takeout-merger-dist/refs/heads/main/versions/darwin-x86_64/0.2.0/Google%20Voice%20Takeout%20Merger.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVmsxaVovSFhoSGZnVWNvVXREd0JVRmhrazlXbVl1bW56UTVPbnNSajJmRW5Zajk3THB2eCt5NlU5Y1RwZE80UUc1N2RWV2lyOS9HTUU5aEI2S3g3NTVXNTNZR0RDSlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NzM4NjU2CWZpbGU6R29vZ2xlIFZvaWNlIFRha2VvdXQgTWVyZ2VyLmFwcC50YXIuZ3oKWWk0OTIvTGorWjRPS1dhQ0cwaWpLT25uZ3BQb20wZnVNRGRJWkNvN3d5b3hUU0VFcitubWR6eGtmVmUwdHlLcm5XUTVEYVQ4bzBOWG94cWFuOHE3RHc9PQo=",
+      "url": "https://raw.githubusercontent.com/k3ntako/google-voice-takeout-merger-dist/refs/heads/main/versions/darwin-x86_64/0.3.0/Google%20Voice%20Takeout%20Merger.app.tar.gz"
     }
   }
 }
